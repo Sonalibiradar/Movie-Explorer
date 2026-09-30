@@ -68,4 +68,8 @@ Axios talks to `https://api.themoviedb.org/3` with the `api_key` query parameter
 
 Deploy the `dist` folder from `npm run build` to Vercel or Netlify. Add `VITE_TMDB_API_KEY` in the host’s environment variables.
 
-Live demo: add your Vercel/Netlify URL here after deploy.
+## 🚀 Live Demo
+
+[View the live demo](https://movie-explorer-project-phi.vercel.app)
+
+> To use the app, get a free API key at [themoviedb.org](https://www.themoviedb.org/settings/api) and enter it on the sign-in screen.
