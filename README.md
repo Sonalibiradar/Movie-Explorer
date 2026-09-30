@@ -16,6 +16,10 @@ This project uses **Vite + React** (current Create React App setup) with **Axios
 - **Load more** pagination for search and discover results
 - User-friendly TMDb / network error messages
 
+## 📸 Screenshot :
+  
+<img width="900" alt="Movie Explorer home page" src="https://github.com/user-attachments/assets/ee559389-5bf2-4675-b276-62251be701a8" />
+
 ## Setup
 
 1. Install Node.js 18+.
